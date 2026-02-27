@@ -1,0 +1,32 @@
+# dependencies
+node_modules/
+npm-debug.log*
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native
+.gradle/
+local.properties
+*.jks
+*.jksKeystore
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Cache
+.cache/
